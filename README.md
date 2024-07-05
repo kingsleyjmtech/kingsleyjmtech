@@ -60,10 +60,5 @@ I am a passionate Full-Stack Web Developer and Automation Tester with extensive 
 - Showcases the services offered by Kingsley JM Tech.
 - [kingsleyjmtech.com](https://kingsleyjmtech.com/)
 
-### Education
-
-#### University of Limpopo
-- **BSc in Mathematical Sciences** (2018 - 2021)
-
 ### Let's Connect!
 Feel free to reach out to me via email or connect with me on my website for any inquiries or collaborations.
