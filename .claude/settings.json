@@ -1,0 +1,21 @@
+{
+  "extraKnownMarketplaces": {
+    "kjm-claude-arsenal": {
+      "source": {
+        "source": "github",
+        "repo": "kingsleyjmtech/kjm-claude-arsenal"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "kjm-git-autopilot@kjm-claude-arsenal": true,
+    "kjm-laravel@kjm-claude-arsenal": true,
+    "kjm-spring@kjm-claude-arsenal": true,
+    "kjm-vue@kjm-claude-arsenal": true,
+    "kjm-ansible@kjm-claude-arsenal": true,
+    "kjm-playwright@kjm-claude-arsenal": true,
+    "security-agent@kjm-claude-arsenal": true,
+    "kjm-agent-hub@kjm-claude-arsenal": true,
+    "kjm-meta@kjm-claude-arsenal": true
+  }
+}
